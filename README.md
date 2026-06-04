@@ -16,4 +16,13 @@ An interactive, browserâ€‘based modelling suite for PFAS (PFOA) adsorption on Hâ
 - **Numerical 1D ADE**: Two finite-difference solvers - linearised retardation vs. fully-coupled nonlinear LDF:
   Solver A: Linearised retardation (local equilibrium approximation) Solver B: Fully-coupled nonlinear LDF (explicit q field)
 
+<img width="593" height="1714" alt="image" src="https://github.com/user-attachments/assets/82ee2761-c453-43cb-93f3-8bfea0214cbe" />
+
+<img width="616" height="1733" alt="image" src="https://github.com/user-attachments/assets/58871a8c-1c04-41a4-8419-f471601c4c0b" />
+
+
+
+
+
+
 
