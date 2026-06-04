@@ -14,8 +14,6 @@ An interactive, browser‑based modelling suite for PFAS (PFOA) adsorption on H�
 - **Breakthrough curve:** Thomas analytical model – predicts column service time
 - **Sensitivity analysis:** One‑factor‑at‑a‑time (flow rate, bed mass, C₀) + tornado chart
 - **Numerical 1D ADE**: Two finite-difference solvers - linearised retardation vs. fully-coupled nonlinear LDF:
-• Solver A: Linearised retardation (local equilibrium approximation)
-
-• Solver B: Fully-coupled nonlinear LDF (explicit q field)
+  Solver A: Linearised retardation (local equilibrium approximation) Solver B: Fully-coupled nonlinear LDF (explicit q field)
 
 
