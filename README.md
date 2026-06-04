@@ -13,8 +13,8 @@ An interactive, browser‑based modelling suite for PFAS (PFOA) adsorption on H�
 - **Kinetics:** Pseudo‑first‑order (PFO) & pseudo‑second‑order (PSO) – includes half‑life estimation
 - **Breakthrough curve:** Thomas analytical model – predicts column service time
 - **Sensitivity analysis:** One‑factor‑at‑a‑time (flow rate, bed mass, C₀) + tornado chart
-- **Numerical 1D ADE:** Two finite‑difference solvers compared side‑by‑side
-  - *Linearised retardation* (local Langmuir slope approximation)
-  - *Fully‑coupled nonlinear LDF* (explicit solid loading q(x,t) per cell)
+- **Numerical 1D ADE**: Two finite-difference solvers - linearised retardation vs. fully-coupled nonlinear LDF"
+• Solver A: Linearised retardation (local equilibrium approximation)
+• Solver B: Fully-coupled nonlinear LDF (explicit q field)
 
 
