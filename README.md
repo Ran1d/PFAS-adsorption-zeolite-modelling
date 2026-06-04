@@ -3,7 +3,7 @@
 **Author:** Rand Ahmad Bushnaq  
 **Purpose:** Independent project to demonstrate adsorption modelling skills for PhD application (TU Delft – Zeolites for PFAS Removal)
 
-## 🔬 What is this?
+##  What is this?
 
 An interactive, browser‑based modelling suite for PFAS (PFOA) adsorption on H‑ZSM‑5 zeolite. All computations run locally in your browser – no backend required.
 
@@ -17,4 +17,4 @@ An interactive, browser‑based modelling suite for PFAS (PFOA) adsorption on H�
   - *Linearised retardation* (local Langmuir slope approximation)
   - *Fully‑coupled nonlinear LDF* (explicit solid loading q(x,t) per cell)
 
-## 🚀
+
